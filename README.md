@@ -6,3 +6,5 @@ This repository is about basic NLP projects
 2) HMM for POS tagging
 
 3) MEMM for POS tagging
+
+4) Doc2Vec Model
